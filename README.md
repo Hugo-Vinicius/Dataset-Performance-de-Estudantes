@@ -7,5 +7,6 @@ para avaliar o desempenho acadêmico.
 Tecnologias utilizadas:
 
 Python e bibliotecas Pandas, Seaborn e Matplotlib.
+
 Boxplots e gráficos para a visualização dos insights.
    
